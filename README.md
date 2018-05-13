@@ -1,2 +1,2 @@
 # spatify
-A spotify clone the specializes in spa music.
+A spotify clone project.
